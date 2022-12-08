@@ -1,2 +1,2 @@
 # smart_farm
-一个VUE3的UI，已弃用
+一个VUE3的项目，已弃用
